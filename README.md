@@ -2,10 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas:wave:
 
-- Strogonoff de Frango:chicken:
-
-- Pavê:cake:
-
-- Bolo de Cenoura:carrot:
-
-  
+- Strogonoff de Frango
+- Pavê
+- Bolo de Cenoura
